@@ -1,0 +1,4 @@
+pandas
+pinecone-client
+sentence-transformers
+python-dotenv

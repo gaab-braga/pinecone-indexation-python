@@ -1,0 +1,7 @@
+# Ignorar o diretório data/
+data/
+
+# Ignorar o arquivo .env
+.env
+
+venv/
